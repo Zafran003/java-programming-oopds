@@ -1,1 +1,1 @@
-# java-programming-oopds
+# java-programming-oopds-labs
